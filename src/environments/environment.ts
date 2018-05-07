@@ -5,7 +5,7 @@ export const environment = {
 
   apiKeys: {
     computerVision: '',
-    face: '',
+    face: 'be704dc3-3352-4ccf-a3c6-81d301be85a0',
     textAnalytics: '',
     bingSpeech: ''
   },
